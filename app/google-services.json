@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835678969360",
+    "project_id": "intactinstalls-845c0",
+    "storage_bucket": "intactinstalls-845c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835678969360:android:8324a85254803a2d65f495",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835678969360-epsph9gjoatb38vqpddtgsfrscvea9s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4nOjSjRybbXIY0MGQsV6Yq6ociLWABY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835678969360-epsph9gjoatb38vqpddtgsfrscvea9s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
